@@ -120,8 +120,3 @@
 
 ---
 
-🧠 **Fun Fact**  
-`while(alive) { code(); sleep(); repeat(); }` 💥
-
----
-
