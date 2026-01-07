@@ -12,8 +12,8 @@
 - 🧑‍💻 I write code that works (most of the time).
 - 🌐 Mainly building with .NET (C#) and Angular - my bread and butter.
 - 🐳 Just started exploring Docker (containers are cool, right?).
-- ⚛️ React is next on the roadmap — wish me luck!
-- 🎮 Dreaming in pixels — starting my journey into Unity game development.
+- ⚛️ React is next on the roadmap - wish me luck!
+- 🎮 Dreaming in pixels - starting my journey into Unity game development.
 - 🔧 Fixing bugs one `Console.WriteLine` at a time.
 - ☕ If (coffee == null) → throw new DeveloperNotFoundException();
 
